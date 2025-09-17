@@ -436,6 +436,6 @@ public void testClientConnection() {
 
 ---
 
-**Author**: Om Wakhare  
+**Author**: Swaraj More  
 **Last Updated**: 2025  
 **Version**: 1.0.0
